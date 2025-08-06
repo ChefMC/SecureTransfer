@@ -6,7 +6,7 @@ public class Config {
 
 
 	public static String secret;
-	public static String redisUrl = "redis://default:@localhost:6379/0";
+	public static String redisUrl = "redis://default:@127.0.0.1:6379";
 	public static String mainIp = "...";
 
 

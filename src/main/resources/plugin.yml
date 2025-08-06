@@ -1,0 +1,4 @@
+name: SecureTransfer
+version: 1.0
+api-version: 1.13
+main: by.mine.securetransfer.paper.SecureTransferPaper

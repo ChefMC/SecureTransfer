@@ -1,0 +1,7 @@
+{
+  "id": "securetransfer",
+  "name": "SecureTransfer",
+  "version": "1.0",
+  "main": "by.mine.securetransfer.velocity.SecureTransferVelocity",
+  "dependencies": []
+}

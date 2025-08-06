@@ -215,7 +215,7 @@ public class SecureTransferPaper extends JavaPlugin implements org.bukkit.event.
 		String token = Main.generateToken(uuid, ip, port);
 
 		try (Jedis jedis = Main.redis.getResource()) {
-			jedis.setex("transfer:" + uuid, 15, token);
+			jedis.setex("transfer:" + uuid, 30, token);
 		} catch (Exception e) {
 			e.printStackTrace();
 			return;

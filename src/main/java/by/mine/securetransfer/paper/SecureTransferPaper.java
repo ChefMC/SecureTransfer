@@ -189,7 +189,7 @@ public class SecureTransferPaper extends JavaPlugin implements org.bukkit.event.
 	}
 
 	@EventHandler
-	public void onQuit(PlayerQuitEvent event) {
+	public void onPlayerQuit(PlayerQuitEvent event) {
 		UUID uuid = event.getPlayer().getUniqueId();
 		String activeKey = "is_online:" + uuid;
 		try (Jedis jedis = Main.redis.getResource()) {

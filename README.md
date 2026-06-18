@@ -1,6 +1,8 @@
 <img width="1672" height="941" alt="" src="https://github.com/user-attachments/assets/b34f848e-6811-4caf-a2c2-47e805f5a463" />
 
-# Described on [SpigotMC](https://www.spigotmc.org/resources/securetransfer.130011/)
+# Read more on [SpigotMC](https://www.spigotmc.org/resources/securetransfer.130011/)
+
+---
 
 # Readme is WIP, but plugin main functionality is ready
 

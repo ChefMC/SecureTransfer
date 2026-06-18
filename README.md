@@ -1,4 +1,4 @@
-<img width="1672" height="941" alt="4  SecureTransfer  Full" src="https://github.com/user-attachments/assets/b34f848e-6811-4caf-a2c2-47e805f5a463" />
+<img width="1672" height="941" alt="" src="https://github.com/user-attachments/assets/b34f848e-6811-4caf-a2c2-47e805f5a463" />
 
 # Readme is WIP, but plugin main functionality is ready
 
